@@ -6,8 +6,8 @@
 На тестирование затрачено: 1 ч.
 
 В результате тестирования выявлены следующие дефекты:
-* [Bug](https://github.com/boog25/KeyValidator/issues/2#issue-767827929)
-* [Bug](https://github.com/boog25/KeyValidator/issues/2#issue-767827929)
+* [Невалидный ключ прошел валидацию в приложение KeyValidator](https://github.com/boog25/KeyValidator/issues/2#issue-767827929)
+* [Валидные ключи не прошли валидацию в приложении KeyValidator](https://github.com/boog25/KeyValidator/issues/2#issue-767827929)
 
 ## Описание процесса тестирования
 
